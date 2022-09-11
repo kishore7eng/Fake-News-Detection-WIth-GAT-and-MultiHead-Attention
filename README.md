@@ -9,10 +9,14 @@ Original Code: https://github.com/safe-graph/GNN-FakeNews
 Improvement: Added Multihead Attention with 4 heads using GAT 
  																
  																
-Made by: 
-   Harsh Bijwe
-   Abhishek Pratap Singh
+Made by:
+
    Kishore M
+   
+   Abhishek Pratap Singh
+  
+   Harsh Bijwe
+   
    Murtaza Saifee
    
 > Install requirement.txt files attached, and pytorch Geometric, scatter, sparse using following:
